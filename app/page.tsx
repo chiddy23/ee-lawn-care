@@ -113,8 +113,8 @@ export default function HomePage() {
           </p>
 
           <h1 className="font-heading font-extrabold text-4xl sm:text-5xl md:text-7xl text-cream leading-tight mb-6">
-            Your Lawn Is Our{" "}
-            <span className="text-lime">Priority</span>
+            Your Lawn Is My{" "}
+            <span className="text-lime">Problem</span>
           </h1>
 
           <p className="font-body text-cream/70 text-lg sm:text-xl max-w-2xl mx-auto mb-10">
